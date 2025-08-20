@@ -1,7 +1,7 @@
 - 👋 Hello. My name is Brett Lawrence.
-- 👀 I’m interested in a career in software development, but I am also considering other careers in the computer science field.
-- 🌱 I am currently pursuing a bachelor's degree in Computer Science - Software Systems. My class has a focus on Python, and I am learning Java in my spare time.
-- 💞️ I am not currently looking to collaborate on any projects.
+- 👀 I’m interested in a career in software development, and am also considering a position in IT.
+- 🌱 I am currently pursuing a bachelor's degree in Computer Science - Software Systems. I have experience with a variety of programming languages, including Python, Java and C#.
+- 💞️ I am currently collaborating with classmates to create an AI to analyze medical records.
 - 📫 You can contact me via email. My address is brettlaw0111@gmail.com
 
 <!---
